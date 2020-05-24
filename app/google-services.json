@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365141193591",
+    "firebase_url": "https://easyq-6ec40.firebaseio.com",
+    "project_id": "easyq-6ec40",
+    "storage_bucket": "easyq-6ec40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365141193591:android:b3e4b9dd7d5aaa4aba2772",
+        "android_client_info": {
+          "package_name": "com.example.easyq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365141193591-qlln0eakceo62gsbv9241t5cpov15j8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgKF9SBN2mAMlBswv6vIDEVmBVC7TZLx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365141193591-qlln0eakceo62gsbv9241t5cpov15j8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
